@@ -1,0 +1,8 @@
+
+//api-key
+
+//e21ad18f7d23db89d57102857f01ad5a
+
+//api-token
+//eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlMjFhZDE4ZjdkMjNkYjg5ZDU3MTAyODU3ZjAxYWQ1YSIsInN1YiI6IjY1MjQzYzEzNzQ1MDdkMDBmZjliYTY3YyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.6BCCosh_hTMMfhk38vUVnsfGI8WV5eJjuJND-g2a-qA
+
